@@ -1,1 +1,1 @@
-[Welcome to my homepage!](https://wanggangwei66.github.io/gangwei/)
+[Welcome to my homepage!](https://gangweihueb.github.io)
